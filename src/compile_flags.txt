@@ -1,0 +1,6 @@
+-std=c++17
+-IC:\libs\SFML-2.5.1\include
+-IC:\libs\boost\include
+-Wall
+-Wextra
+
